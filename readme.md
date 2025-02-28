@@ -9,7 +9,7 @@ Contents:
     - Compiles raw bob/chop timings into per-trial measures for further analysis, including per-trial significance
 - Simulation
   - bobbingMCWindowFinal.m
-    - Monte Carlo simulation of humam rhythm entrainment
+    - Monte Carlo simulation of human rhythm entrainment
   - simulatedData.mat
     - Output of the bobbingMCWindowFinal.m script
   - plotMC2d.m
